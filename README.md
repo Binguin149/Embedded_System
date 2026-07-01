@@ -1,2 +1,3 @@
-# Embedded_System
-Mini project for Embedded system using ATMEGA128 to communicate with peripheral devices.
+Author : Huynh Huu Phuoc
+4th year student major in Electronics & Telecommunications.
+This is the mini project that used for submitting in the Embedded System course
